@@ -21,7 +21,7 @@
         android:layout_height="150dp"
         android:scaleType="fitCenter"
         app:srcCompat="@drawable/choki"
-        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteX="218dp"
         tools:layout_editor_absoluteY="180dp" />
 
     <ImageButton
